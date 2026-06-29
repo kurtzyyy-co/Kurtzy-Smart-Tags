@@ -1,0 +1,6 @@
+{
+  "name": "Kurtzy NFC Safety Tags",
+  "description": "Interactive workspace and observer portal for Kurtzy Smart Safety Tags. Preview custom safety tags, view emergency family contacts, and access the professional order & marketing hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
