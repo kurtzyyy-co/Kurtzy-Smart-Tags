@@ -1,0 +1,6 @@
+{
+  "name": "Kurtzy Smart Tags",
+  "description": "Create, customize, and manage smart dynamic tags and customer profiles integrated with Firebase Firestore and Authentication. Easily generate and distribute profile links and QR codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
